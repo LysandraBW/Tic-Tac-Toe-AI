@@ -1,5 +1,5 @@
 # Tic-Tac-Toe-AI
-It took me a straight 26 hours to entirely revamp my previous program and complete the minmax algorithm. My hands are trembling, but I can now lay my head to sleep.
+It took me a straight 14 hours to entirely revamp my previous program and complete the minmax algorithm. My hands are trembling, but I can now lay my head to sleep.
 
 You can play with a friend, a robot, or watch two robots compete against each other if you're into the gladiator scene.
 I use the minmax algorithm to predict the best moves for the robot.
