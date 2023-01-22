@@ -1,5 +1,5 @@
 # Tic-Tac-Toe-AI
-It took me a straight 14 hours to entirely revamp my previous program and complete the minimax algorithm. My hands are trembling, but I can now lay my head to sleep.
+It took me a straight 16 hours to entirely revamp my previous program and complete the minimax algorithm. My hands are trembling, but I can now lay my head to sleep.
 
 I use the minimax algorithm to implement the robot character. Alpha-beta pruning is not used in this implementation, however. I would like to implement it in the future, however.
 
