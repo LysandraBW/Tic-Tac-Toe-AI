@@ -7,8 +7,6 @@ I configured the game so that you can easily play with a friend, a robot, or wat
 
 My code is also heavily commented/explained (because I'd like to be able to come back and know what I was doing), so I hope it is understandable to anyone who may find themselves looking at the code.
 
-Tips on how to improve my code is greatly appreciated!
+Tips on how to improve my code is greatly appreciated
 
-This little project of mine was on the shorter end, but I definitely feel more comfortable with Python.
-
-Hope this project finds you well :-D
+Hope this project finds you well
